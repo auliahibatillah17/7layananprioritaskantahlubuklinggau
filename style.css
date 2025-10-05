@@ -244,7 +244,7 @@ h1{
 
 #card{
   /* 10% transparan = 90% opasitas */
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.8);
   /* opsional: efek kaca halus agar background sedikit “melembut” */
   -webkit-backdrop-filter: blur(2px) saturate(120%);
   backdrop-filter: blur(2px) saturate(120%);
